@@ -18,4 +18,7 @@ Throughout the development of this assignment, I gained valuable insights and kn
 
 - **Problem-Solving:** Overcoming the challenges presented in the assignment enhanced my problem-solving skills. It required a thoughtful approach to design and implementation.
 
+
+
+
 <img src="https://github.com/ashfaaqali/netclanapp/blob/master/app/ss1.png" alt="Screen 1" width="300"/> <img src="https://github.com/ashfaaqali/netclanapp/blob/master/app/ss2.png" alt="Screen 1" width="300"/>
