@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project is part of an assignment given to me by a prospective employer as part of the hiring process. The main objective was to demonstrate my Android development skills by implementing specific features and functionalities.
+This project is a clone of two screens of the NetClan app on the Google Play Store, part of an assignment given to me by a prospective employer as part of the hiring process. The main objective was to demonstrate my Android development skills by implementing specific features and functionalities.
 
 ## Challenges Faced
 
