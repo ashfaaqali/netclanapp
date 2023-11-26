@@ -21,7 +21,7 @@ Throughout the development of this assignment, I gained valuable insights and kn
 
 <div style="text-align: center;">
 
-<img src="https://github.com/ashfaaqali/netclanapp/blob/master/app/ss1.png" alt="Screen 1" width="300" margin-right="20dp"/> <img src="https://github.com/ashfaaqali/netclanapp/blob/master/app/ss2.png" alt="Screen 1" width="300"/>
+<img src="https://github.com/ashfaaqali/netclanapp/blob/master/app/ss1.png" alt="Screen 1" width="300" style="margin-right: 20px;"/> <img src="https://github.com/ashfaaqali/netclanapp/blob/master/app/ss2.png" alt="Screen 1" width="300"/>
 
 </div>
 
