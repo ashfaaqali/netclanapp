@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AshfaqNetClan</string>
+    <string name="expression">\"☺\"️ </string>
+    <string name="save_explore_btn">Save &amp; Explore</string>
+    <string name="status">Hi community, I am open to new connections \"☺️\"</string>
+
+    <string-array name="availability_text_items">
+        <item>Available | Hey Let\'s Connect</item>
+        <item>Away | Stay Discrete And Watch</item>
+        <item>Busy | Do Not Disturb | Will Catch Up Later</item>
+        <item>SOS | Emergency ! Need Assistance ! HELP</item>
+    </string-array>
+
+</resources>

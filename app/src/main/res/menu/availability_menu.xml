@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_1"
+        android:title="Available | Hey Let's Connect"/>
+
+    <item
+        android:id="@+id/item_2"
+        android:title="Away | Stay Discrete And Watch"/>
+
+    <item
+        android:id="@+id/item_3"
+        android:title="Busy | Do Not Disturb | Will Catch Up Later"/>
+
+    <item
+        android:id="@+id/item_4"
+        android:title="SOS | Emergency ! Need Assistance ! HELP"/>
+
+</menu>
